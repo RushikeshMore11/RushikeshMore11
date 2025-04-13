@@ -1,8 +1,8 @@
-### Hello there 👋! I'm Rushikesh More
+### Hello there! I'm Rushikesh More
 
 I'm a Frontend Developer with over 2 years of experience and currently exploring the world of Backend development. I specialize in building intuitive, accessible, and responsive user interfaces using React.js, Next.js, and TypeScript.
 
-# 👨‍💻 Current Focus
+# Current Focus
 - Learning backend development with Spring Boot and API design
 - Deep diving into System Design and Frontend Architecture
 - Practicing DSA for better problem-solving
@@ -12,7 +12,7 @@ If you have a cool project idea (even a creative spin on a basic one like a Todo
 
 
 
-# 🛠️ My Skills
+# My Skills
 
 **Frontend Frameworks & Libraries**  
 ReactJS, NextJS, TailwindCSS, SCSS, TypeScript, JavaScript
@@ -31,7 +31,7 @@ Git, GitHub, Adobe Experience Manager (AEM), Jira, Postman
 
 
 
-# 🧠 Learning Journey
+# Learning Journey
 - [x] JavaScript (Advanced)
 - [x] React & Next.js
 - [ ] Frontend System Design(exploring)
@@ -41,11 +41,8 @@ Git, GitHub, Adobe Experience Manager (AEM), Jira, Postman
 
 
 
-# 📬 Reach Out To Me
+# Reach Out To Me
 - LinkedIn: [linkedin.com/in/rushikesh-more](https://www.linkedin.com/in/rushikesh-more)
 - Email: [rushikeshmore.dev@gmail.com](mailto:rushikeshmore.dev@gmail.com)
 
 Let's connect, learn, and build something awesome! 🚀
-
-
-📫 How to reach me: [LinkedIn]() | [mail](morerushi56@gmail.com)  
